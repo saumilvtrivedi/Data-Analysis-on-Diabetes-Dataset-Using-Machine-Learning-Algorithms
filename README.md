@@ -31,4 +31,4 @@ Highlight machine learning's role in healthcare for predictive diagnostics and e
 
 The project resulted in a CatBoost-based predictive model that excels in identifying individuals at risk of diabetes with high accuracy, precision, recall, and AUC scores. 
 
-This model, refined by addressing class imbalances through SMOTE, showcases the significant potential of machine learning in enhancing early diabetes detection and he
+This model, refined by addressing class imbalances through SMOTE, showcases the significant potential of machine learning in enhancing early diabetes detection and healthcare Diagnosis.
